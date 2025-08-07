@@ -48,11 +48,11 @@ Entrainement d'un modèle XGBoost
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="">Download my CV</a></td>
+      <td><a href="CV_Merveille Dona CODJO.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="[https://www.linkedin.com/in/merveillecodjo]">My Linkedin Profile</a></td>
+      <td><a href="https://www.linkedin.com/in/merveillecodjo">My Linkedin Profile</a></td>
     </tr>
 
   </tbody>
