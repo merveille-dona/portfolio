@@ -1,0 +1,82 @@
+{
+    "name": "Merveille Dona CODJO",
+    "contact": {
+        "email": {
+            "fieldName": "Email",
+            "link": "merveilledonacodjo@gmail.com"
+        },
+        "linkedin": {
+            "fieldName": "Linkedin",
+            "link": "https://linkedin.com/in/merveillecodjo"
+        },
+        "github": {
+            "fieldName": "Github",
+            "link": "https://github.com/merveille-dona"
+        }
+    },
+    "title": "AI Engineer",
+  "description": "I am a Master’s student in Artificial Intelligence at Université Paul Sabatier Toulouse III and a Research Intern at IRIT. I hold an engineering diploma in Telecommunications, providing me with a solid foundation in both theoretical and applied aspects of complex systems.\n\nMy academic background and research experience have fueled a deep interest in developing intelligent, reliable, and trustworthy AI systems. I have worked on predictive modeling for telecommunications applications and am currently gaining hands-on experience with large language models (LLMs). These experiences have broadened my skill set and strengthened my motivation to apply advanced AI techniques to real-world challenges, including but not limited to cybersecurity.\n\nI am particularly interested in advancing AI research in areas such as threat detection, adversarial robustness, explainable AI, and secure, language-based interfaces."
+
+    "skills": [
+    {
+        "platform": "Programming Languages",
+        "list": [
+            "Python",
+            "SQL",
+            "Bash"
+        ]
+    },
+    {
+        "platform": "Machine Learning & AI",
+        "list": [
+            "scikit-learn",
+            "XGBoost",
+            "TensorFlow",
+            "PyTorch",
+            "Large Language Models (LLMs)",
+            "Natural Language Processing (NLP)"
+        ]
+    },
+    {
+        "platform": "Data & Analytics",
+        "list": [
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Seaborn",
+            "Jupyter Notebooks"
+        ]
+    },
+    {
+        "platform": "Tools & Technologies",
+        "list": [
+            "Git & GitHub",
+            "Linux",
+            "Docker (basic)"
+        ]
+    },
+    {
+        "platform": "Telecommunications & Networking",
+        "list": [
+            "Network Protocols",
+            "5G Systems",
+            "Signal Processing Basics"
+        ]
+    }
+]
+,
+    "projects": [
+    {
+        "name": "Energy Consumption Prediction in 5G Base Stations",
+        "description": "Developed a machine learning model using Python, XGBoost, and K-Means clustering to predict and optimize energy usage in 5G networks."
+    },
+    {
+        "name": "LLM-Based Argument Mining (Research Internship)",
+        "description": "Gained hands-on experience fine-tuning and evaluating large language models (LLMs) for extracting structured information, with potential applications in cybersecurity."
+    }
+]
+
+
+    "theme": "light",
+    "allowToggleDarkMode": true
+}
